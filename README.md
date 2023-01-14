@@ -28,7 +28,7 @@ npm i dgram
 ```
 
 #### Pre built client
-Find the pre built client for this at [udp_frontend] (https://github.com/Mark-42-max/Unity_UDP_Client)
+Find the pre built client for this at [udp_frontend](https://github.com/Mark-42-max/Unity_UDP_Client)
 
 #### Run
 
